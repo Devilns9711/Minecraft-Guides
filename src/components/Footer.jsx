@@ -22,7 +22,14 @@ export default function Footer() {
         <div>
           <h4 className="text-white font-semibold mb-3">Social</h4>
           <div className="flex gap-4 text-sm text-gray-400">
-            <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-mc-green-light">GitHub</a>
+            <a
+              href="https://github.com/Devilns9711/Minecraft-Guides"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="hover:text-mc-green-light"
+            >
+              GitHub
+            </a>
             <a
               href="https://nirmal-singh-portfolio-eight.vercel.app/"
               target="_blank"
