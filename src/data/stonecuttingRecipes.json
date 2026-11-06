@@ -1,0 +1,2243 @@
+[
+ {
+  "input": "andesite",
+  "label": "Andesite",
+  "results": [
+   {
+    "id": "andesite_slab",
+    "name": "Andesite Slab",
+    "count": 2
+   },
+   {
+    "id": "andesite_stairs",
+    "name": "Andesite Stairs",
+    "count": 1
+   },
+   {
+    "id": "andesite_wall",
+    "name": "Andesite Wall",
+    "count": 1
+   },
+   {
+    "id": "polished_andesite",
+    "name": "Polished Andesite",
+    "count": 1
+   },
+   {
+    "id": "polished_andesite_slab",
+    "name": "Polished Andesite Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_andesite_stairs",
+    "name": "Polished Andesite Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "basalt",
+  "label": "Basalt",
+  "results": [
+   {
+    "id": "polished_basalt",
+    "name": "Polished Basalt",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "black_concrete",
+  "label": "Black Concrete",
+  "results": [
+   {
+    "id": "black_concrete_slab",
+    "name": "Black Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "black_concrete_stairs",
+    "name": "Black Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "blackstone",
+  "label": "Blackstone",
+  "results": [
+   {
+    "id": "blackstone_slab",
+    "name": "Blackstone Slab",
+    "count": 2
+   },
+   {
+    "id": "blackstone_stairs",
+    "name": "Blackstone Stairs",
+    "count": 1
+   },
+   {
+    "id": "blackstone_wall",
+    "name": "Blackstone Wall",
+    "count": 1
+   },
+   {
+    "id": "chiseled_polished_blackstone",
+    "name": "Chiseled Polished Blackstone",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone",
+    "name": "Polished Blackstone",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_brick_slab",
+    "name": "Polished Blackstone Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_blackstone_brick_stairs",
+    "name": "Polished Blackstone Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_brick_wall",
+    "name": "Polished Blackstone Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_bricks",
+    "name": "Polished Blackstone Bricks",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_slab",
+    "name": "Polished Blackstone Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_blackstone_stairs",
+    "name": "Polished Blackstone Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_wall",
+    "name": "Polished Blackstone Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "blue_concrete",
+  "label": "Blue Concrete",
+  "results": [
+   {
+    "id": "blue_concrete_slab",
+    "name": "Blue Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "blue_concrete_stairs",
+    "name": "Blue Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "bricks",
+  "label": "Bricks",
+  "results": [
+   {
+    "id": "brick_slab",
+    "name": "Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "brick_stairs",
+    "name": "Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "brick_wall",
+    "name": "Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "brown_concrete",
+  "label": "Brown Concrete",
+  "results": [
+   {
+    "id": "brown_concrete_slab",
+    "name": "Brown Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "brown_concrete_stairs",
+    "name": "Brown Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "cinnabar",
+  "label": "Cinnabar",
+  "results": [
+   {
+    "id": "chiseled_cinnabar",
+    "name": "Chiseled Cinnabar",
+    "count": 1
+   },
+   {
+    "id": "cinnabar_brick_slab",
+    "name": "Cinnabar Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "cinnabar_brick_stairs",
+    "name": "Cinnabar Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "cinnabar_brick_wall",
+    "name": "Cinnabar Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "cinnabar_bricks",
+    "name": "Cinnabar Bricks",
+    "count": 1
+   },
+   {
+    "id": "cinnabar_slab",
+    "name": "Cinnabar Slab",
+    "count": 2
+   },
+   {
+    "id": "cinnabar_stairs",
+    "name": "Cinnabar Stairs",
+    "count": 1
+   },
+   {
+    "id": "cinnabar_wall",
+    "name": "Cinnabar Wall",
+    "count": 1
+   },
+   {
+    "id": "polished_cinnabar",
+    "name": "Polished Cinnabar",
+    "count": 1
+   },
+   {
+    "id": "polished_cinnabar_slab",
+    "name": "Polished Cinnabar Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_cinnabar_stairs",
+    "name": "Polished Cinnabar Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_cinnabar_wall",
+    "name": "Polished Cinnabar Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "cinnabar_bricks",
+  "label": "Cinnabar Bricks",
+  "results": [
+   {
+    "id": "cinnabar_brick_slab",
+    "name": "Cinnabar Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "cinnabar_brick_stairs",
+    "name": "Cinnabar Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "cinnabar_brick_wall",
+    "name": "Cinnabar Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "cobbled_deepslate",
+  "label": "Cobbled Deepslate",
+  "results": [
+   {
+    "id": "chiseled_deepslate",
+    "name": "Chiseled Deepslate",
+    "count": 1
+   },
+   {
+    "id": "cobbled_deepslate_slab",
+    "name": "Cobbled Deepslate Slab",
+    "count": 2
+   },
+   {
+    "id": "cobbled_deepslate_stairs",
+    "name": "Cobbled Deepslate Stairs",
+    "count": 1
+   },
+   {
+    "id": "cobbled_deepslate_wall",
+    "name": "Cobbled Deepslate Wall",
+    "count": 1
+   },
+   {
+    "id": "deepslate_brick_slab",
+    "name": "Deepslate Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "deepslate_brick_stairs",
+    "name": "Deepslate Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "deepslate_brick_wall",
+    "name": "Deepslate Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "deepslate_bricks",
+    "name": "Deepslate Bricks",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tile_slab",
+    "name": "Deepslate Tile Slab",
+    "count": 2
+   },
+   {
+    "id": "deepslate_tile_stairs",
+    "name": "Deepslate Tile Stairs",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tile_wall",
+    "name": "Deepslate Tile Wall",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tiles",
+    "name": "Deepslate Tiles",
+    "count": 1
+   },
+   {
+    "id": "polished_deepslate",
+    "name": "Polished Deepslate",
+    "count": 1
+   },
+   {
+    "id": "polished_deepslate_slab",
+    "name": "Polished Deepslate Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_deepslate_stairs",
+    "name": "Polished Deepslate Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_deepslate_wall",
+    "name": "Polished Deepslate Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "cobblestone",
+  "label": "Cobblestone",
+  "results": [
+   {
+    "id": "cobblestone_slab",
+    "name": "Cobblestone Slab",
+    "count": 2
+   },
+   {
+    "id": "cobblestone_stairs",
+    "name": "Cobblestone Stairs",
+    "count": 1
+   },
+   {
+    "id": "cobblestone_wall",
+    "name": "Cobblestone Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "copper_block",
+  "label": "Copper Block",
+  "results": [
+   {
+    "id": "chiseled_copper",
+    "name": "Chiseled Copper",
+    "count": 4
+   },
+   {
+    "id": "copper_grate",
+    "name": "Copper Grate",
+    "count": 4
+   },
+   {
+    "id": "cut_copper",
+    "name": "Cut Copper",
+    "count": 4
+   },
+   {
+    "id": "cut_copper_slab",
+    "name": "Cut Copper Slab",
+    "count": 8
+   },
+   {
+    "id": "cut_copper_stairs",
+    "name": "Cut Copper Stairs",
+    "count": 4
+   }
+  ]
+ },
+ {
+  "input": "cut_copper",
+  "label": "Cut Copper",
+  "results": [
+   {
+    "id": "chiseled_copper",
+    "name": "Chiseled Copper",
+    "count": 1
+   },
+   {
+    "id": "cut_copper_slab",
+    "name": "Cut Copper Slab",
+    "count": 2
+   },
+   {
+    "id": "cut_copper_stairs",
+    "name": "Cut Copper Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "cut_red_sandstone",
+  "label": "Cut Red Sandstone",
+  "results": [
+   {
+    "id": "cut_red_sandstone_slab",
+    "name": "Cut Red Sandstone Slab",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "input": "cut_sandstone",
+  "label": "Cut Sandstone",
+  "results": [
+   {
+    "id": "cut_sandstone_slab",
+    "name": "Cut Sandstone Slab",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "input": "cyan_concrete",
+  "label": "Cyan Concrete",
+  "results": [
+   {
+    "id": "cyan_concrete_slab",
+    "name": "Cyan Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "cyan_concrete_stairs",
+    "name": "Cyan Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "dark_prismarine",
+  "label": "Dark Prismarine",
+  "results": [
+   {
+    "id": "dark_prismarine_slab",
+    "name": "Dark Prismarine Slab",
+    "count": 2
+   },
+   {
+    "id": "dark_prismarine_stairs",
+    "name": "Dark Prismarine Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "deepslate",
+  "label": "Deepslate",
+  "results": [
+   {
+    "id": "chiseled_deepslate",
+    "name": "Chiseled Deepslate",
+    "count": 1
+   },
+   {
+    "id": "cobbled_deepslate",
+    "name": "Cobbled Deepslate",
+    "count": 1
+   },
+   {
+    "id": "cobbled_deepslate_slab",
+    "name": "Cobbled Deepslate Slab",
+    "count": 2
+   },
+   {
+    "id": "cobbled_deepslate_stairs",
+    "name": "Cobbled Deepslate Stairs",
+    "count": 1
+   },
+   {
+    "id": "cobbled_deepslate_wall",
+    "name": "Cobbled Deepslate Wall",
+    "count": 1
+   },
+   {
+    "id": "deepslate_brick_slab",
+    "name": "Deepslate Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "deepslate_brick_stairs",
+    "name": "Deepslate Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "deepslate_brick_wall",
+    "name": "Deepslate Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "deepslate_bricks",
+    "name": "Deepslate Bricks",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tile_slab",
+    "name": "Deepslate Tile Slab",
+    "count": 2
+   },
+   {
+    "id": "deepslate_tile_stairs",
+    "name": "Deepslate Tile Stairs",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tile_wall",
+    "name": "Deepslate Tile Wall",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tiles",
+    "name": "Deepslate Tiles",
+    "count": 1
+   },
+   {
+    "id": "polished_deepslate",
+    "name": "Polished Deepslate",
+    "count": 1
+   },
+   {
+    "id": "polished_deepslate_slab",
+    "name": "Polished Deepslate Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_deepslate_stairs",
+    "name": "Polished Deepslate Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_deepslate_wall",
+    "name": "Polished Deepslate Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "deepslate_bricks",
+  "label": "Deepslate Bricks",
+  "results": [
+   {
+    "id": "deepslate_brick_slab",
+    "name": "Deepslate Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "deepslate_brick_stairs",
+    "name": "Deepslate Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "deepslate_brick_wall",
+    "name": "Deepslate Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tile_slab",
+    "name": "Deepslate Tile Slab",
+    "count": 2
+   },
+   {
+    "id": "deepslate_tile_stairs",
+    "name": "Deepslate Tile Stairs",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tile_wall",
+    "name": "Deepslate Tile Wall",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tiles",
+    "name": "Deepslate Tiles",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "deepslate_tiles",
+  "label": "Deepslate Tiles",
+  "results": [
+   {
+    "id": "deepslate_tile_slab",
+    "name": "Deepslate Tile Slab",
+    "count": 2
+   },
+   {
+    "id": "deepslate_tile_stairs",
+    "name": "Deepslate Tile Stairs",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tile_wall",
+    "name": "Deepslate Tile Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "diorite",
+  "label": "Diorite",
+  "results": [
+   {
+    "id": "diorite_slab",
+    "name": "Diorite Slab",
+    "count": 2
+   },
+   {
+    "id": "diorite_stairs",
+    "name": "Diorite Stairs",
+    "count": 1
+   },
+   {
+    "id": "diorite_wall",
+    "name": "Diorite Wall",
+    "count": 1
+   },
+   {
+    "id": "polished_diorite",
+    "name": "Polished Diorite",
+    "count": 1
+   },
+   {
+    "id": "polished_diorite_slab",
+    "name": "Polished Diorite Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_diorite_stairs",
+    "name": "Polished Diorite Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "end_stone",
+  "label": "End Stone",
+  "results": [
+   {
+    "id": "end_stone_brick_slab",
+    "name": "End Stone Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "end_stone_brick_stairs",
+    "name": "End Stone Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "end_stone_brick_wall",
+    "name": "End Stone Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "end_stone_bricks",
+    "name": "End Stone Bricks",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "end_stone_bricks",
+  "label": "End Stone Bricks",
+  "results": [
+   {
+    "id": "end_stone_brick_slab",
+    "name": "End Stone Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "end_stone_brick_stairs",
+    "name": "End Stone Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "end_stone_brick_wall",
+    "name": "End Stone Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "exposed_copper",
+  "label": "Exposed Copper",
+  "results": [
+   {
+    "id": "exposed_chiseled_copper",
+    "name": "Exposed Chiseled Copper",
+    "count": 4
+   },
+   {
+    "id": "exposed_copper_grate",
+    "name": "Exposed Copper Grate",
+    "count": 4
+   },
+   {
+    "id": "exposed_cut_copper",
+    "name": "Exposed Cut Copper",
+    "count": 4
+   },
+   {
+    "id": "exposed_cut_copper_slab",
+    "name": "Exposed Cut Copper Slab",
+    "count": 8
+   },
+   {
+    "id": "exposed_cut_copper_stairs",
+    "name": "Exposed Cut Copper Stairs",
+    "count": 4
+   }
+  ]
+ },
+ {
+  "input": "exposed_cut_copper",
+  "label": "Exposed Cut Copper",
+  "results": [
+   {
+    "id": "exposed_chiseled_copper",
+    "name": "Exposed Chiseled Copper",
+    "count": 1
+   },
+   {
+    "id": "exposed_cut_copper_slab",
+    "name": "Exposed Cut Copper Slab",
+    "count": 2
+   },
+   {
+    "id": "exposed_cut_copper_stairs",
+    "name": "Exposed Cut Copper Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "granite",
+  "label": "Granite",
+  "results": [
+   {
+    "id": "granite_slab",
+    "name": "Granite Slab",
+    "count": 2
+   },
+   {
+    "id": "granite_stairs",
+    "name": "Granite Stairs",
+    "count": 1
+   },
+   {
+    "id": "granite_wall",
+    "name": "Granite Wall",
+    "count": 1
+   },
+   {
+    "id": "polished_granite",
+    "name": "Polished Granite",
+    "count": 1
+   },
+   {
+    "id": "polished_granite_slab",
+    "name": "Polished Granite Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_granite_stairs",
+    "name": "Polished Granite Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "gray_concrete",
+  "label": "Gray Concrete",
+  "results": [
+   {
+    "id": "gray_concrete_slab",
+    "name": "Gray Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "gray_concrete_stairs",
+    "name": "Gray Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "green_concrete",
+  "label": "Green Concrete",
+  "results": [
+   {
+    "id": "green_concrete_slab",
+    "name": "Green Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "green_concrete_stairs",
+    "name": "Green Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "light_blue_concrete",
+  "label": "Light Blue Concrete",
+  "results": [
+   {
+    "id": "light_blue_concrete_slab",
+    "name": "Light Blue Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "light_blue_concrete_stairs",
+    "name": "Light Blue Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "light_gray_concrete",
+  "label": "Light Gray Concrete",
+  "results": [
+   {
+    "id": "light_gray_concrete_slab",
+    "name": "Light Gray Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "light_gray_concrete_stairs",
+    "name": "Light Gray Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "lime_concrete",
+  "label": "Lime Concrete",
+  "results": [
+   {
+    "id": "lime_concrete_slab",
+    "name": "Lime Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "lime_concrete_stairs",
+    "name": "Lime Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "magenta_concrete",
+  "label": "Magenta Concrete",
+  "results": [
+   {
+    "id": "magenta_concrete_slab",
+    "name": "Magenta Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "magenta_concrete_stairs",
+    "name": "Magenta Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "mossy_cobblestone",
+  "label": "Mossy Cobblestone",
+  "results": [
+   {
+    "id": "mossy_cobblestone_slab",
+    "name": "Mossy Cobblestone Slab",
+    "count": 2
+   },
+   {
+    "id": "mossy_cobblestone_stairs",
+    "name": "Mossy Cobblestone Stairs",
+    "count": 1
+   },
+   {
+    "id": "mossy_cobblestone_wall",
+    "name": "Mossy Cobblestone Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "mossy_stone_bricks",
+  "label": "Mossy Stone Bricks",
+  "results": [
+   {
+    "id": "mossy_stone_brick_slab",
+    "name": "Mossy Stone Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "mossy_stone_brick_stairs",
+    "name": "Mossy Stone Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "mossy_stone_brick_wall",
+    "name": "Mossy Stone Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "mud_bricks",
+  "label": "Mud Bricks",
+  "results": [
+   {
+    "id": "mud_brick_slab",
+    "name": "Mud Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "mud_brick_stairs",
+    "name": "Mud Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "mud_brick_wall",
+    "name": "Mud Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "nether_bricks",
+  "label": "Nether Bricks",
+  "results": [
+   {
+    "id": "chiseled_nether_bricks",
+    "name": "Chiseled Nether Bricks",
+    "count": 1
+   },
+   {
+    "id": "nether_brick_slab",
+    "name": "Nether Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "nether_brick_stairs",
+    "name": "Nether Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "nether_brick_wall",
+    "name": "Nether Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "orange_concrete",
+  "label": "Orange Concrete",
+  "results": [
+   {
+    "id": "orange_concrete_slab",
+    "name": "Orange Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "orange_concrete_stairs",
+    "name": "Orange Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "oxidized_copper",
+  "label": "Oxidized Copper",
+  "results": [
+   {
+    "id": "oxidized_chiseled_copper",
+    "name": "Oxidized Chiseled Copper",
+    "count": 4
+   },
+   {
+    "id": "oxidized_copper_grate",
+    "name": "Oxidized Copper Grate",
+    "count": 4
+   },
+   {
+    "id": "oxidized_cut_copper",
+    "name": "Oxidized Cut Copper",
+    "count": 4
+   },
+   {
+    "id": "oxidized_cut_copper_slab",
+    "name": "Oxidized Cut Copper Slab",
+    "count": 8
+   },
+   {
+    "id": "oxidized_cut_copper_stairs",
+    "name": "Oxidized Cut Copper Stairs",
+    "count": 4
+   }
+  ]
+ },
+ {
+  "input": "oxidized_cut_copper",
+  "label": "Oxidized Cut Copper",
+  "results": [
+   {
+    "id": "oxidized_chiseled_copper",
+    "name": "Oxidized Chiseled Copper",
+    "count": 1
+   },
+   {
+    "id": "oxidized_cut_copper_slab",
+    "name": "Oxidized Cut Copper Slab",
+    "count": 2
+   },
+   {
+    "id": "oxidized_cut_copper_stairs",
+    "name": "Oxidized Cut Copper Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "pink_concrete",
+  "label": "Pink Concrete",
+  "results": [
+   {
+    "id": "pink_concrete_slab",
+    "name": "Pink Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "pink_concrete_stairs",
+    "name": "Pink Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "polished_andesite",
+  "label": "Polished Andesite",
+  "results": [
+   {
+    "id": "polished_andesite_slab",
+    "name": "Polished Andesite Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_andesite_stairs",
+    "name": "Polished Andesite Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "polished_blackstone",
+  "label": "Polished Blackstone",
+  "results": [
+   {
+    "id": "chiseled_polished_blackstone",
+    "name": "Chiseled Polished Blackstone",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_brick_slab",
+    "name": "Polished Blackstone Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_blackstone_brick_stairs",
+    "name": "Polished Blackstone Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_brick_wall",
+    "name": "Polished Blackstone Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_bricks",
+    "name": "Polished Blackstone Bricks",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_slab",
+    "name": "Polished Blackstone Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_blackstone_stairs",
+    "name": "Polished Blackstone Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_wall",
+    "name": "Polished Blackstone Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "polished_blackstone_bricks",
+  "label": "Polished Blackstone Bricks",
+  "results": [
+   {
+    "id": "polished_blackstone_brick_slab",
+    "name": "Polished Blackstone Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_blackstone_brick_stairs",
+    "name": "Polished Blackstone Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_blackstone_brick_wall",
+    "name": "Polished Blackstone Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "polished_cinnabar",
+  "label": "Polished Cinnabar",
+  "results": [
+   {
+    "id": "cinnabar_brick_slab",
+    "name": "Cinnabar Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "cinnabar_brick_stairs",
+    "name": "Cinnabar Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "cinnabar_brick_wall",
+    "name": "Cinnabar Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "cinnabar_bricks",
+    "name": "Cinnabar Bricks",
+    "count": 1
+   },
+   {
+    "id": "polished_cinnabar_slab",
+    "name": "Polished Cinnabar Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_cinnabar_stairs",
+    "name": "Polished Cinnabar Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_cinnabar_wall",
+    "name": "Polished Cinnabar Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "polished_deepslate",
+  "label": "Polished Deepslate",
+  "results": [
+   {
+    "id": "deepslate_brick_slab",
+    "name": "Deepslate Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "deepslate_brick_stairs",
+    "name": "Deepslate Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "deepslate_brick_wall",
+    "name": "Deepslate Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "deepslate_bricks",
+    "name": "Deepslate Bricks",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tile_slab",
+    "name": "Deepslate Tile Slab",
+    "count": 2
+   },
+   {
+    "id": "deepslate_tile_stairs",
+    "name": "Deepslate Tile Stairs",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tile_wall",
+    "name": "Deepslate Tile Wall",
+    "count": 1
+   },
+   {
+    "id": "deepslate_tiles",
+    "name": "Deepslate Tiles",
+    "count": 1
+   },
+   {
+    "id": "polished_deepslate_slab",
+    "name": "Polished Deepslate Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_deepslate_stairs",
+    "name": "Polished Deepslate Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_deepslate_wall",
+    "name": "Polished Deepslate Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "polished_diorite",
+  "label": "Polished Diorite",
+  "results": [
+   {
+    "id": "polished_diorite_slab",
+    "name": "Polished Diorite Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_diorite_stairs",
+    "name": "Polished Diorite Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "polished_granite",
+  "label": "Polished Granite",
+  "results": [
+   {
+    "id": "polished_granite_slab",
+    "name": "Polished Granite Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_granite_stairs",
+    "name": "Polished Granite Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "polished_sulfur",
+  "label": "Polished Sulfur",
+  "results": [
+   {
+    "id": "polished_sulfur_slab",
+    "name": "Polished Sulfur Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_sulfur_stairs",
+    "name": "Polished Sulfur Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_sulfur_wall",
+    "name": "Polished Sulfur Wall",
+    "count": 1
+   },
+   {
+    "id": "sulfur_brick_slab",
+    "name": "Sulfur Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "sulfur_brick_stairs",
+    "name": "Sulfur Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "sulfur_brick_wall",
+    "name": "Sulfur Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "sulfur_bricks",
+    "name": "Sulfur Bricks",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "polished_tuff",
+  "label": "Polished Tuff",
+  "results": [
+   {
+    "id": "chiseled_tuff_bricks",
+    "name": "Chiseled Tuff Bricks",
+    "count": 1
+   },
+   {
+    "id": "polished_tuff_slab",
+    "name": "Polished Tuff Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_tuff_stairs",
+    "name": "Polished Tuff Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_tuff_wall",
+    "name": "Polished Tuff Wall",
+    "count": 1
+   },
+   {
+    "id": "tuff_brick_slab",
+    "name": "Tuff Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "tuff_brick_stairs",
+    "name": "Tuff Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "tuff_brick_wall",
+    "name": "Tuff Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "tuff_bricks",
+    "name": "Tuff Bricks",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "prismarine",
+  "label": "Prismarine",
+  "results": [
+   {
+    "id": "prismarine_slab",
+    "name": "Prismarine Slab",
+    "count": 2
+   },
+   {
+    "id": "prismarine_stairs",
+    "name": "Prismarine Stairs",
+    "count": 1
+   },
+   {
+    "id": "prismarine_wall",
+    "name": "Prismarine Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "prismarine_bricks",
+  "label": "Prismarine Bricks",
+  "results": [
+   {
+    "id": "prismarine_brick_slab",
+    "name": "Prismarine Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "prismarine_brick_stairs",
+    "name": "Prismarine Brick Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "purple_concrete",
+  "label": "Purple Concrete",
+  "results": [
+   {
+    "id": "purple_concrete_slab",
+    "name": "Purple Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "purple_concrete_stairs",
+    "name": "Purple Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "purpur_block",
+  "label": "Purpur Block",
+  "results": [
+   {
+    "id": "purpur_pillar",
+    "name": "Purpur Pillar",
+    "count": 1
+   },
+   {
+    "id": "purpur_slab",
+    "name": "Purpur Slab",
+    "count": 2
+   },
+   {
+    "id": "purpur_stairs",
+    "name": "Purpur Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "quartz_block",
+  "label": "Quartz Block",
+  "results": [
+   {
+    "id": "chiseled_quartz_block",
+    "name": "Chiseled Quartz Block",
+    "count": 1
+   },
+   {
+    "id": "quartz_bricks",
+    "name": "Quartz Bricks",
+    "count": 1
+   },
+   {
+    "id": "quartz_pillar",
+    "name": "Quartz Pillar",
+    "count": 1
+   },
+   {
+    "id": "quartz_slab",
+    "name": "Quartz Slab",
+    "count": 2
+   },
+   {
+    "id": "quartz_stairs",
+    "name": "Quartz Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "red_concrete",
+  "label": "Red Concrete",
+  "results": [
+   {
+    "id": "red_concrete_slab",
+    "name": "Red Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "red_concrete_stairs",
+    "name": "Red Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "red_nether_bricks",
+  "label": "Red Nether Bricks",
+  "results": [
+   {
+    "id": "red_nether_brick_slab",
+    "name": "Red Nether Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "red_nether_brick_stairs",
+    "name": "Red Nether Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "red_nether_brick_wall",
+    "name": "Red Nether Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "red_sandstone",
+  "label": "Red Sandstone",
+  "results": [
+   {
+    "id": "chiseled_red_sandstone",
+    "name": "Chiseled Red Sandstone",
+    "count": 1
+   },
+   {
+    "id": "cut_red_sandstone",
+    "name": "Cut Red Sandstone",
+    "count": 1
+   },
+   {
+    "id": "cut_red_sandstone_slab",
+    "name": "Cut Red Sandstone Slab",
+    "count": 2
+   },
+   {
+    "id": "red_sandstone_slab",
+    "name": "Red Sandstone Slab",
+    "count": 2
+   },
+   {
+    "id": "red_sandstone_stairs",
+    "name": "Red Sandstone Stairs",
+    "count": 1
+   },
+   {
+    "id": "red_sandstone_wall",
+    "name": "Red Sandstone Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "resin_bricks",
+  "label": "Resin Bricks",
+  "results": [
+   {
+    "id": "chiseled_resin_bricks",
+    "name": "Chiseled Resin Bricks",
+    "count": 1
+   },
+   {
+    "id": "resin_brick_slab",
+    "name": "Resin Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "resin_brick_stairs",
+    "name": "Resin Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "resin_brick_wall",
+    "name": "Resin Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "sandstone",
+  "label": "Sandstone",
+  "results": [
+   {
+    "id": "chiseled_sandstone",
+    "name": "Chiseled Sandstone",
+    "count": 1
+   },
+   {
+    "id": "cut_sandstone",
+    "name": "Cut Sandstone",
+    "count": 1
+   },
+   {
+    "id": "cut_sandstone_slab",
+    "name": "Cut Sandstone Slab",
+    "count": 2
+   },
+   {
+    "id": "sandstone_slab",
+    "name": "Sandstone Slab",
+    "count": 2
+   },
+   {
+    "id": "sandstone_stairs",
+    "name": "Sandstone Stairs",
+    "count": 1
+   },
+   {
+    "id": "sandstone_wall",
+    "name": "Sandstone Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "smooth_quartz",
+  "label": "Smooth Quartz",
+  "results": [
+   {
+    "id": "smooth_quartz_slab",
+    "name": "Smooth Quartz Slab",
+    "count": 2
+   },
+   {
+    "id": "smooth_quartz_stairs",
+    "name": "Smooth Quartz Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "smooth_red_sandstone",
+  "label": "Smooth Red Sandstone",
+  "results": [
+   {
+    "id": "smooth_red_sandstone_slab",
+    "name": "Smooth Red Sandstone Slab",
+    "count": 2
+   },
+   {
+    "id": "smooth_red_sandstone_stairs",
+    "name": "Smooth Red Sandstone Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "smooth_sandstone",
+  "label": "Smooth Sandstone",
+  "results": [
+   {
+    "id": "smooth_sandstone_slab",
+    "name": "Smooth Sandstone Slab",
+    "count": 2
+   },
+   {
+    "id": "smooth_sandstone_stairs",
+    "name": "Smooth Sandstone Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "smooth_stone",
+  "label": "Smooth Stone",
+  "results": [
+   {
+    "id": "smooth_stone_slab",
+    "name": "Smooth Stone Slab",
+    "count": 2
+   }
+  ]
+ },
+ {
+  "input": "stone",
+  "label": "Stone",
+  "results": [
+   {
+    "id": "chiseled_stone_bricks",
+    "name": "Chiseled Stone Bricks",
+    "count": 1
+   },
+   {
+    "id": "cobblestone",
+    "name": "Cobblestone",
+    "count": 1
+   },
+   {
+    "id": "cobblestone_slab",
+    "name": "Cobblestone Slab",
+    "count": 2
+   },
+   {
+    "id": "cobblestone_stairs",
+    "name": "Cobblestone Stairs",
+    "count": 1
+   },
+   {
+    "id": "cobblestone_wall",
+    "name": "Cobblestone Wall",
+    "count": 1
+   },
+   {
+    "id": "stone_brick_slab",
+    "name": "Stone Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "stone_brick_stairs",
+    "name": "Stone Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "stone_brick_wall",
+    "name": "Stone Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "stone_bricks",
+    "name": "Stone Bricks",
+    "count": 1
+   },
+   {
+    "id": "stone_slab",
+    "name": "Stone Slab",
+    "count": 2
+   },
+   {
+    "id": "stone_stairs",
+    "name": "Stone Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "stone_bricks",
+  "label": "Stone Bricks",
+  "results": [
+   {
+    "id": "chiseled_stone_bricks",
+    "name": "Chiseled Stone Bricks",
+    "count": 1
+   },
+   {
+    "id": "stone_brick_slab",
+    "name": "Stone Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "stone_brick_stairs",
+    "name": "Stone Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "stone_brick_wall",
+    "name": "Stone Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "sulfur",
+  "label": "Sulfur",
+  "results": [
+   {
+    "id": "chiseled_sulfur",
+    "name": "Chiseled Sulfur",
+    "count": 1
+   },
+   {
+    "id": "polished_sulfur",
+    "name": "Polished Sulfur",
+    "count": 1
+   },
+   {
+    "id": "polished_sulfur_slab",
+    "name": "Polished Sulfur Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_sulfur_stairs",
+    "name": "Polished Sulfur Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_sulfur_wall",
+    "name": "Polished Sulfur Wall",
+    "count": 1
+   },
+   {
+    "id": "sulfur_brick_slab",
+    "name": "Sulfur Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "sulfur_brick_stairs",
+    "name": "Sulfur Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "sulfur_brick_wall",
+    "name": "Sulfur Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "sulfur_bricks",
+    "name": "Sulfur Bricks",
+    "count": 1
+   },
+   {
+    "id": "sulfur_slab",
+    "name": "Sulfur Slab",
+    "count": 2
+   },
+   {
+    "id": "sulfur_stairs",
+    "name": "Sulfur Stairs",
+    "count": 1
+   },
+   {
+    "id": "sulfur_wall",
+    "name": "Sulfur Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "sulfur_bricks",
+  "label": "Sulfur Bricks",
+  "results": [
+   {
+    "id": "sulfur_brick_slab",
+    "name": "Sulfur Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "sulfur_brick_stairs",
+    "name": "Sulfur Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "sulfur_brick_wall",
+    "name": "Sulfur Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "tuff",
+  "label": "Tuff",
+  "results": [
+   {
+    "id": "chiseled_tuff",
+    "name": "Chiseled Tuff",
+    "count": 1
+   },
+   {
+    "id": "chiseled_tuff_bricks",
+    "name": "Chiseled Tuff Bricks",
+    "count": 1
+   },
+   {
+    "id": "polished_tuff",
+    "name": "Polished Tuff",
+    "count": 1
+   },
+   {
+    "id": "polished_tuff_slab",
+    "name": "Polished Tuff Slab",
+    "count": 2
+   },
+   {
+    "id": "polished_tuff_stairs",
+    "name": "Polished Tuff Stairs",
+    "count": 1
+   },
+   {
+    "id": "polished_tuff_wall",
+    "name": "Polished Tuff Wall",
+    "count": 1
+   },
+   {
+    "id": "tuff_brick_slab",
+    "name": "Tuff Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "tuff_brick_stairs",
+    "name": "Tuff Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "tuff_brick_wall",
+    "name": "Tuff Brick Wall",
+    "count": 1
+   },
+   {
+    "id": "tuff_bricks",
+    "name": "Tuff Bricks",
+    "count": 1
+   },
+   {
+    "id": "tuff_slab",
+    "name": "Tuff Slab",
+    "count": 2
+   },
+   {
+    "id": "tuff_stairs",
+    "name": "Tuff Stairs",
+    "count": 1
+   },
+   {
+    "id": "tuff_wall",
+    "name": "Tuff Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "tuff_bricks",
+  "label": "Tuff Bricks",
+  "results": [
+   {
+    "id": "chiseled_tuff_bricks",
+    "name": "Chiseled Tuff Bricks",
+    "count": 1
+   },
+   {
+    "id": "tuff_brick_slab",
+    "name": "Tuff Brick Slab",
+    "count": 2
+   },
+   {
+    "id": "tuff_brick_stairs",
+    "name": "Tuff Brick Stairs",
+    "count": 1
+   },
+   {
+    "id": "tuff_brick_wall",
+    "name": "Tuff Brick Wall",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "waxed_copper_block",
+  "label": "Waxed Copper Block",
+  "results": [
+   {
+    "id": "waxed_chiseled_copper",
+    "name": "Waxed Chiseled Copper",
+    "count": 4
+   },
+   {
+    "id": "waxed_copper_grate",
+    "name": "Waxed Copper Grate",
+    "count": 4
+   },
+   {
+    "id": "waxed_cut_copper",
+    "name": "Waxed Cut Copper",
+    "count": 4
+   },
+   {
+    "id": "waxed_cut_copper_slab",
+    "name": "Waxed Cut Copper Slab",
+    "count": 8
+   },
+   {
+    "id": "waxed_cut_copper_stairs",
+    "name": "Waxed Cut Copper Stairs",
+    "count": 4
+   }
+  ]
+ },
+ {
+  "input": "waxed_cut_copper",
+  "label": "Waxed Cut Copper",
+  "results": [
+   {
+    "id": "waxed_chiseled_copper",
+    "name": "Waxed Chiseled Copper",
+    "count": 1
+   },
+   {
+    "id": "waxed_cut_copper_slab",
+    "name": "Waxed Cut Copper Slab",
+    "count": 2
+   },
+   {
+    "id": "waxed_cut_copper_stairs",
+    "name": "Waxed Cut Copper Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "waxed_exposed_copper",
+  "label": "Waxed Exposed Copper",
+  "results": [
+   {
+    "id": "waxed_exposed_chiseled_copper",
+    "name": "Waxed Exposed Chiseled Copper",
+    "count": 4
+   },
+   {
+    "id": "waxed_exposed_copper_grate",
+    "name": "Waxed Exposed Copper Grate",
+    "count": 4
+   },
+   {
+    "id": "waxed_exposed_cut_copper",
+    "name": "Waxed Exposed Cut Copper",
+    "count": 4
+   },
+   {
+    "id": "waxed_exposed_cut_copper_slab",
+    "name": "Waxed Exposed Cut Copper Slab",
+    "count": 8
+   },
+   {
+    "id": "waxed_exposed_cut_copper_stairs",
+    "name": "Waxed Exposed Cut Copper Stairs",
+    "count": 4
+   }
+  ]
+ },
+ {
+  "input": "waxed_exposed_cut_copper",
+  "label": "Waxed Exposed Cut Copper",
+  "results": [
+   {
+    "id": "waxed_exposed_chiseled_copper",
+    "name": "Waxed Exposed Chiseled Copper",
+    "count": 1
+   },
+   {
+    "id": "waxed_exposed_cut_copper_slab",
+    "name": "Waxed Exposed Cut Copper Slab",
+    "count": 2
+   },
+   {
+    "id": "waxed_exposed_cut_copper_stairs",
+    "name": "Waxed Exposed Cut Copper Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "waxed_oxidized_copper",
+  "label": "Waxed Oxidized Copper",
+  "results": [
+   {
+    "id": "waxed_oxidized_chiseled_copper",
+    "name": "Waxed Oxidized Chiseled Copper",
+    "count": 4
+   },
+   {
+    "id": "waxed_oxidized_copper_grate",
+    "name": "Waxed Oxidized Copper Grate",
+    "count": 4
+   },
+   {
+    "id": "waxed_oxidized_cut_copper",
+    "name": "Waxed Oxidized Cut Copper",
+    "count": 4
+   },
+   {
+    "id": "waxed_oxidized_cut_copper_slab",
+    "name": "Waxed Oxidized Cut Copper Slab",
+    "count": 8
+   },
+   {
+    "id": "waxed_oxidized_cut_copper_stairs",
+    "name": "Waxed Oxidized Cut Copper Stairs",
+    "count": 4
+   }
+  ]
+ },
+ {
+  "input": "waxed_oxidized_cut_copper",
+  "label": "Waxed Oxidized Cut Copper",
+  "results": [
+   {
+    "id": "waxed_oxidized_chiseled_copper",
+    "name": "Waxed Oxidized Chiseled Copper",
+    "count": 1
+   },
+   {
+    "id": "waxed_oxidized_cut_copper_slab",
+    "name": "Waxed Oxidized Cut Copper Slab",
+    "count": 2
+   },
+   {
+    "id": "waxed_oxidized_cut_copper_stairs",
+    "name": "Waxed Oxidized Cut Copper Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "waxed_weathered_copper",
+  "label": "Waxed Weathered Copper",
+  "results": [
+   {
+    "id": "waxed_weathered_chiseled_copper",
+    "name": "Waxed Weathered Chiseled Copper",
+    "count": 4
+   },
+   {
+    "id": "waxed_weathered_copper_grate",
+    "name": "Waxed Weathered Copper Grate",
+    "count": 4
+   },
+   {
+    "id": "waxed_weathered_cut_copper",
+    "name": "Waxed Weathered Cut Copper",
+    "count": 4
+   },
+   {
+    "id": "waxed_weathered_cut_copper_slab",
+    "name": "Waxed Weathered Cut Copper Slab",
+    "count": 8
+   },
+   {
+    "id": "waxed_weathered_cut_copper_stairs",
+    "name": "Waxed Weathered Cut Copper Stairs",
+    "count": 4
+   }
+  ]
+ },
+ {
+  "input": "waxed_weathered_cut_copper",
+  "label": "Waxed Weathered Cut Copper",
+  "results": [
+   {
+    "id": "waxed_weathered_chiseled_copper",
+    "name": "Waxed Weathered Chiseled Copper",
+    "count": 1
+   },
+   {
+    "id": "waxed_weathered_cut_copper_slab",
+    "name": "Waxed Weathered Cut Copper Slab",
+    "count": 2
+   },
+   {
+    "id": "waxed_weathered_cut_copper_stairs",
+    "name": "Waxed Weathered Cut Copper Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "weathered_copper",
+  "label": "Weathered Copper",
+  "results": [
+   {
+    "id": "weathered_chiseled_copper",
+    "name": "Weathered Chiseled Copper",
+    "count": 4
+   },
+   {
+    "id": "weathered_copper_grate",
+    "name": "Weathered Copper Grate",
+    "count": 4
+   },
+   {
+    "id": "weathered_cut_copper",
+    "name": "Weathered Cut Copper",
+    "count": 4
+   },
+   {
+    "id": "weathered_cut_copper_slab",
+    "name": "Weathered Cut Copper Slab",
+    "count": 8
+   },
+   {
+    "id": "weathered_cut_copper_stairs",
+    "name": "Weathered Cut Copper Stairs",
+    "count": 4
+   }
+  ]
+ },
+ {
+  "input": "weathered_cut_copper",
+  "label": "Weathered Cut Copper",
+  "results": [
+   {
+    "id": "weathered_chiseled_copper",
+    "name": "Weathered Chiseled Copper",
+    "count": 1
+   },
+   {
+    "id": "weathered_cut_copper_slab",
+    "name": "Weathered Cut Copper Slab",
+    "count": 2
+   },
+   {
+    "id": "weathered_cut_copper_stairs",
+    "name": "Weathered Cut Copper Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "white_concrete",
+  "label": "White Concrete",
+  "results": [
+   {
+    "id": "white_concrete_slab",
+    "name": "White Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "white_concrete_stairs",
+    "name": "White Concrete Stairs",
+    "count": 1
+   }
+  ]
+ },
+ {
+  "input": "yellow_concrete",
+  "label": "Yellow Concrete",
+  "results": [
+   {
+    "id": "yellow_concrete_slab",
+    "name": "Yellow Concrete Slab",
+    "count": 2
+   },
+   {
+    "id": "yellow_concrete_stairs",
+    "name": "Yellow Concrete Stairs",
+    "count": 1
+   }
+  ]
+ }
+]

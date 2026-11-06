@@ -1,0 +1,149 @@
+{
+  "Armorer": {
+    "icon": "🛡️",
+    "levels": {
+      "Novice": [
+        {"trade": "Coal → Emerald", "cost": "15 Coal", "receive": "1 Emerald", "availability": "Up to 16 trades"},
+        {"trade": "Emerald → Iron Helmet", "cost": "5 Emeralds", "receive": "Iron Helmet", "availability": "Up to 12 trades"}
+      ],
+      "Apprentice": [
+        {"trade": "Iron Ingot → Emerald", "cost": "4 Iron Ingots", "receive": "1 Emerald", "availability": "Up to 12 trades"}
+      ],
+      "Journeyman": [
+        {"trade": "Emerald → Iron Chestplate", "cost": "9 Emeralds", "receive": "Iron Chestplate", "availability": "Up to 12 trades"}
+      ],
+      "Expert": [
+        {"trade": "Diamond → Emerald", "cost": "1 Diamond", "receive": "1 Emerald", "availability": "Up to 12 trades"}
+      ],
+      "Master": [
+        {"trade": "Emerald → Enchanted Diamond Chestplate", "cost": "28 Emeralds", "receive": "Enchanted Diamond Chestplate", "availability": "Up to 12 trades"}
+      ]
+    }
+  },
+  "Butcher": {
+    "icon": "🥩",
+    "levels": {
+      "Novice": [{"trade": "Raw Chicken → Emerald", "cost": "14 Raw Chicken", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Raw Porkchop → Emerald", "cost": "7 Raw Porkchop", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Journeyman": [{"trade": "Raw Beef → Emerald", "cost": "10 Raw Beef", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Expert": [{"trade": "Emerald → Cooked Chicken", "cost": "1 Emerald", "receive": "8 Cooked Chicken", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Sweet Berries → Emerald", "cost": "10 Sweet Berries", "receive": "1 Emerald", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Cartographer": {
+    "icon": "🗺️",
+    "levels": {
+      "Novice": [{"trade": "Paper → Emerald", "cost": "24 Paper", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Emerald + Compass → Ocean Explorer Map", "cost": "13 Emeralds + 1 Compass", "receive": "Ocean Explorer Map", "availability": "Up to 12 trades"}],
+      "Journeyman": [{"trade": "Emerald + Compass → Woodland Explorer Map", "cost": "14 Emeralds + 1 Compass", "receive": "Woodland Explorer Map", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Item Frame", "cost": "7 Emeralds", "receive": "Item Frame", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Emerald → Banner", "cost": "3 Emeralds", "receive": "Banner", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Cleric": {
+    "icon": "⚗️",
+    "levels": {
+      "Novice": [{"trade": "Rotten Flesh → Emerald", "cost": "32 Rotten Flesh", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Gold Ingot → Emerald", "cost": "3 Gold Ingots", "receive": "1 Emerald", "availability": "Up to 12 trades"}],
+      "Journeyman": [{"trade": "Emerald → Glowstone", "cost": "1 Emerald", "receive": "1 Glowstone", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Ender Pearl", "cost": "5 Emeralds", "receive": "1 Ender Pearl", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Emerald → Bottle o' Enchanting", "cost": "3 Emeralds", "receive": "1 Bottle o' Enchanting", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Farmer": {
+    "icon": "🌾",
+    "levels": {
+      "Novice": [{"trade": "Wheat → Emerald", "cost": "20 Wheat", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Emerald → Bread", "cost": "1 Emerald", "receive": "6 Bread", "availability": "Up to 12 trades"}],
+      "Journeyman": [{"trade": "Pumpkin → Emerald", "cost": "6 Pumpkins", "receive": "1 Emerald", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Golden Carrot", "cost": "3 Emeralds", "receive": "3 Golden Carrots", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Emerald → Glistering Melon", "cost": "4 Emeralds", "receive": "3 Glistering Melon Slices", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Fisherman": {
+    "icon": "🎣",
+    "levels": {
+      "Novice": [{"trade": "String → Emerald", "cost": "20 String", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Emerald → Cooked Cod", "cost": "1 Emerald", "receive": "6 Cooked Cod", "availability": "Up to 12 trades"}],
+      "Journeyman": [{"trade": "Raw Salmon → Emerald", "cost": "6 Raw Salmon", "receive": "1 Emerald", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Enchanted Fishing Rod", "cost": "8 Emeralds", "receive": "Enchanted Fishing Rod", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Tropical Fish → Emerald", "cost": "6 Tropical Fish", "receive": "1 Emerald", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Fletcher": {
+    "icon": "🏹",
+    "levels": {
+      "Novice": [{"trade": "Stick → Emerald", "cost": "32 Sticks", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Emerald → Arrow", "cost": "1 Emerald", "receive": "16 Arrows", "availability": "Up to 12 trades"}],
+      "Journeyman": [{"trade": "Flint → Emerald", "cost": "26 Flint", "receive": "1 Emerald", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Enchanted Bow", "cost": "8 Emeralds", "receive": "Enchanted Bow", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Emerald → Tipped Arrow", "cost": "2 Emeralds", "receive": "5 Tipped Arrows", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Leatherworker": {
+    "icon": "🧵",
+    "levels": {
+      "Novice": [{"trade": "Leather → Emerald", "cost": "6 Leather", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Emerald → Leather Tunic", "cost": "7 Emeralds", "receive": "Leather Tunic", "availability": "Up to 12 trades"}],
+      "Journeyman": [{"trade": "Emerald → Leather Pants", "cost": "4 Emeralds", "receive": "Leather Pants", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Leather Boots", "cost": "6 Emeralds", "receive": "Leather Boots", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Emerald → Enchanted Leather Tunic", "cost": "12 Emeralds", "receive": "Enchanted Leather Tunic", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Librarian": {
+    "icon": "📚",
+    "levels": {
+      "Novice": [
+        {"trade": "Paper → Emerald", "cost": "24 Paper", "receive": "1 Emerald", "availability": "Up to 16 trades"},
+        {"trade": "Emerald → Bookshelf", "cost": "9 Emeralds", "receive": "1 Bookshelf", "availability": "Up to 12 trades"}
+      ],
+      "Apprentice": [
+        {"trade": "Emerald → Lantern", "cost": "1 Emerald", "receive": "1 Lantern", "availability": "Up to 12 trades"},
+        {"trade": "Emerald → Glass", "cost": "1 Emerald", "receive": "4 Glass", "availability": "Up to 12 trades"}
+      ],
+      "Journeyman": [{"trade": "Emerald → Name Tag", "cost": "20 Emeralds", "receive": "1 Name Tag", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Enchanted Book", "cost": "12 Emeralds", "receive": "Enchanted Book", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Emerald + Book → Enchanted Book (Mending)", "cost": "36 Emeralds + 1 Book", "receive": "Mending Book", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Mason": {
+    "icon": "🧱",
+    "levels": {
+      "Novice": [{"trade": "Clay Ball → Emerald", "cost": "10 Clay Balls", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Emerald → Stone Bricks", "cost": "1 Emerald", "receive": "4 Stone Bricks", "availability": "Up to 12 trades"}],
+      "Journeyman": [{"trade": "Stone → Emerald", "cost": "20 Stone", "receive": "1 Emerald", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Quartz Block", "cost": "1 Emerald", "receive": "1 Quartz Block", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Emerald → Terracotta", "cost": "1 Emerald", "receive": "1 Terracotta", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Shepherd": {
+    "icon": "🐑",
+    "levels": {
+      "Novice": [{"trade": "White Wool → Emerald", "cost": "18 White Wool", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Emerald → Shears", "cost": "2 Emeralds", "receive": "1 Shears", "availability": "Up to 12 trades"}],
+      "Journeyman": [{"trade": "Dyed Wool → Emerald", "cost": "6 Dyed Wool", "receive": "1 Emerald", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Carpet", "cost": "1 Emerald", "receive": "4 Carpet", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Emerald → Bed", "cost": "3 Emeralds", "receive": "1 Bed", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Toolsmith": {
+    "icon": "🔧",
+    "levels": {
+      "Novice": [{"trade": "Coal → Emerald", "cost": "15 Coal", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Emerald → Iron Pickaxe", "cost": "3 Emeralds", "receive": "Iron Pickaxe", "availability": "Up to 12 trades"}],
+      "Journeyman": [{"trade": "Iron Ingot → Emerald", "cost": "4 Iron Ingots", "receive": "1 Emerald", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Diamond Pickaxe", "cost": "13 Emeralds", "receive": "Diamond Pickaxe", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Emerald → Enchanted Diamond Pickaxe", "cost": "18 Emeralds", "receive": "Enchanted Diamond Pickaxe", "availability": "Up to 12 trades"}]
+    }
+  },
+  "Weaponsmith": {
+    "icon": "⚔️",
+    "levels": {
+      "Novice": [{"trade": "Coal → Emerald", "cost": "15 Coal", "receive": "1 Emerald", "availability": "Up to 16 trades"}],
+      "Apprentice": [{"trade": "Emerald → Iron Sword", "cost": "3 Emeralds", "receive": "Iron Sword", "availability": "Up to 12 trades"}],
+      "Journeyman": [{"trade": "Iron Ingot → Emerald", "cost": "4 Iron Ingots", "receive": "1 Emerald", "availability": "Up to 12 trades"}],
+      "Expert": [{"trade": "Emerald → Diamond Sword", "cost": "13 Emeralds", "receive": "Diamond Sword", "availability": "Up to 12 trades"}],
+      "Master": [{"trade": "Emerald → Enchanted Diamond Sword", "cost": "18 Emeralds", "receive": "Enchanted Diamond Sword", "availability": "Up to 12 trades"}]
+    }
+  }
+}

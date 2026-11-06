@@ -1,0 +1,1066 @@
+{
+ "version": "26.3",
+ "source": "miscode/mcmeta 26.3 datapack (data_version 5023) + vanilla textures",
+ "potions": [
+  {
+   "id": "water",
+   "name": "Water Bottle",
+   "shortName": "Water Bottle",
+   "effect": "No effect",
+   "effectLabel": "No effect",
+   "category": "base",
+   "color": "#385DC6",
+   "description": "The starting point for every potion. Fill a glass bottle from a water source or a cauldron.",
+   "duration": null,
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/water.png",
+   "splashIcon": "potions/water_splash.png",
+   "lingeringIcon": "potions/water_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    }
+   ],
+   "variants": [],
+   "corruptsTo": []
+  },
+  {
+   "id": "mundane",
+   "name": "Mundane Potion",
+   "shortName": "Mundane Potion",
+   "effect": "No effect",
+   "effectLabel": "No effect",
+   "category": "base",
+   "color": "#385DC6",
+   "description": "A dud potion. Brewed from water with redstone, glowstone, sugar or most other ingredients.",
+   "duration": null,
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/mundane.png",
+   "splashIcon": "potions/mundane_splash.png",
+   "lingeringIcon": "potions/mundane_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "redstone",
+     "potion": "mundane"
+    }
+   ],
+   "variants": [],
+   "corruptsTo": []
+  },
+  {
+   "id": "thick",
+   "name": "Thick Potion",
+   "shortName": "Thick Potion",
+   "effect": "No effect",
+   "effectLabel": "No effect",
+   "category": "base",
+   "color": "#385DC6",
+   "description": "A useless potion brewed from water and glowstone dust.",
+   "duration": null,
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/thick.png",
+   "splashIcon": "potions/thick_splash.png",
+   "lingeringIcon": "potions/thick_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "glowstone_dust",
+     "potion": "thick"
+    }
+   ],
+   "variants": [],
+   "corruptsTo": []
+  },
+  {
+   "id": "awkward",
+   "name": "Awkward Potion",
+   "shortName": "Awkward Potion",
+   "effect": "No effect",
+   "effectLabel": "No effect",
+   "category": "base",
+   "color": "#385DC6",
+   "description": "The base for every useful potion. Brewed from water and nether wart.",
+   "duration": null,
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/awkward.png",
+   "splashIcon": "potions/awkward_splash.png",
+   "lingeringIcon": "potions/awkward_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    }
+   ],
+   "variants": [],
+   "corruptsTo": []
+  },
+  {
+   "id": "swiftness",
+   "name": "Potion of Swiftness",
+   "shortName": "Swiftness",
+   "effect": "Speed",
+   "effectLabel": "Speed",
+   "category": "positive",
+   "color": "#33EBFF",
+   "description": "Increases movement speed and sprint-jump distance by 20% per level.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/swiftness.png",
+   "splashIcon": "potions/swiftness_splash.png",
+   "lingeringIcon": "potions/swiftness_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "sugar",
+     "potion": "swiftness"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_swiftness",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "8:00",
+     "effectLabel": "Speed",
+     "icon": "potions/long_swiftness.png",
+     "splashIcon": "potions/long_swiftness_splash.png",
+     "lingeringIcon": "potions/long_swiftness_lingering.png"
+    },
+    {
+     "id": "strong_swiftness",
+     "kind": "enhanced",
+     "reagent": "glowstone_dust",
+     "duration": "1:30",
+     "effectLabel": "Speed II",
+     "icon": "potions/strong_swiftness.png",
+     "splashIcon": "potions/strong_swiftness_splash.png",
+     "lingeringIcon": "potions/strong_swiftness_lingering.png"
+    }
+   ],
+   "corruptsTo": [
+    "slowness"
+   ],
+   "alternativeFrom": []
+  },
+  {
+   "id": "slowness",
+   "name": "Potion of Slowness",
+   "shortName": "Slowness",
+   "effect": "Slowness",
+   "effectLabel": "Slowness",
+   "category": "negative",
+   "color": "#8BAFE0",
+   "description": "Reduces movement speed by 15% per level.",
+   "duration": "1:30",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/slowness.png",
+   "splashIcon": "potions/slowness_splash.png",
+   "lingeringIcon": "potions/slowness_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "sugar",
+     "potion": "swiftness"
+    },
+    {
+     "reagent": "fermented_spider_eye",
+     "potion": "slowness"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_slowness",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "4:00",
+     "effectLabel": "Slowness",
+     "icon": "potions/long_slowness.png",
+     "splashIcon": "potions/long_slowness_splash.png",
+     "lingeringIcon": "potions/long_slowness_lingering.png"
+    },
+    {
+     "id": "strong_slowness",
+     "kind": "enhanced",
+     "reagent": "glowstone_dust",
+     "duration": "0:20",
+     "effectLabel": "Slowness IV",
+     "icon": "potions/strong_slowness.png",
+     "splashIcon": "potions/strong_slowness_splash.png",
+     "lingeringIcon": "potions/strong_slowness_lingering.png"
+    }
+   ],
+   "corruptsTo": [],
+   "alternativeFrom": [
+    "Potion of Leaping"
+   ]
+  },
+  {
+   "id": "leaping",
+   "name": "Potion of Leaping",
+   "shortName": "Leaping",
+   "effect": "Jump Boost",
+   "effectLabel": "Jump Boost",
+   "category": "positive",
+   "color": "#FDFF84",
+   "description": "Increases jump height and reduces fall damage.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/leaping.png",
+   "splashIcon": "potions/leaping_splash.png",
+   "lingeringIcon": "potions/leaping_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "rabbit_foot",
+     "potion": "leaping"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_leaping",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "8:00",
+     "effectLabel": "Jump Boost",
+     "icon": "potions/long_leaping.png",
+     "splashIcon": "potions/long_leaping_splash.png",
+     "lingeringIcon": "potions/long_leaping_lingering.png"
+    },
+    {
+     "id": "strong_leaping",
+     "kind": "enhanced",
+     "reagent": "glowstone_dust",
+     "duration": "1:30",
+     "effectLabel": "Jump Boost II",
+     "icon": "potions/strong_leaping.png",
+     "splashIcon": "potions/strong_leaping_splash.png",
+     "lingeringIcon": "potions/strong_leaping_lingering.png"
+    }
+   ],
+   "corruptsTo": [
+    "slowness"
+   ],
+   "alternativeFrom": []
+  },
+  {
+   "id": "strength",
+   "name": "Potion of Strength",
+   "shortName": "Strength",
+   "effect": "Strength",
+   "effectLabel": "Strength",
+   "category": "positive",
+   "color": "#FFC700",
+   "description": "Adds 3 HP (1.5 hearts) of melee damage per level.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/strength.png",
+   "splashIcon": "potions/strength_splash.png",
+   "lingeringIcon": "potions/strength_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "blaze_powder",
+     "potion": "strength"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_strength",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "8:00",
+     "effectLabel": "Strength",
+     "icon": "potions/long_strength.png",
+     "splashIcon": "potions/long_strength_splash.png",
+     "lingeringIcon": "potions/long_strength_lingering.png"
+    },
+    {
+     "id": "strong_strength",
+     "kind": "enhanced",
+     "reagent": "glowstone_dust",
+     "duration": "1:30",
+     "effectLabel": "Strength II",
+     "icon": "potions/strong_strength.png",
+     "splashIcon": "potions/strong_strength_splash.png",
+     "lingeringIcon": "potions/strong_strength_lingering.png"
+    }
+   ],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "healing",
+   "name": "Potion of Healing",
+   "shortName": "Healing",
+   "effect": "Instant Health",
+   "effectLabel": "Instant Health",
+   "category": "positive",
+   "color": "#F82423",
+   "description": "Instantly restores 4 HP (2 hearts) per level.",
+   "duration": "instant",
+   "instant": true,
+   "brewable": true,
+   "icon": "potions/healing.png",
+   "splashIcon": "potions/healing_splash.png",
+   "lingeringIcon": "potions/healing_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "glistering_melon_slice",
+     "potion": "healing"
+    }
+   ],
+   "variants": [
+    {
+     "id": "strong_healing",
+     "kind": "enhanced",
+     "reagent": "glowstone_dust",
+     "duration": "instant",
+     "effectLabel": "Instant Health II",
+     "icon": "potions/strong_healing.png",
+     "splashIcon": "potions/strong_healing_splash.png",
+     "lingeringIcon": "potions/strong_healing_lingering.png"
+    }
+   ],
+   "corruptsTo": [
+    "harming"
+   ],
+   "alternativeFrom": []
+  },
+  {
+   "id": "harming",
+   "name": "Potion of Harming",
+   "shortName": "Harming",
+   "effect": "Instant Damage",
+   "effectLabel": "Instant Damage",
+   "category": "negative",
+   "color": "#A9656A",
+   "description": "Instantly deals 6 HP (3 hearts) of damage per level.",
+   "duration": "instant",
+   "instant": true,
+   "brewable": true,
+   "icon": "potions/harming.png",
+   "splashIcon": "potions/harming_splash.png",
+   "lingeringIcon": "potions/harming_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "glistering_melon_slice",
+     "potion": "healing"
+    },
+    {
+     "reagent": "fermented_spider_eye",
+     "potion": "harming"
+    }
+   ],
+   "variants": [
+    {
+     "id": "strong_harming",
+     "kind": "enhanced",
+     "reagent": "glowstone_dust",
+     "duration": "instant",
+     "effectLabel": "Instant Damage II",
+     "icon": "potions/strong_harming.png",
+     "splashIcon": "potions/strong_harming_splash.png",
+     "lingeringIcon": "potions/strong_harming_lingering.png"
+    }
+   ],
+   "corruptsTo": [],
+   "alternativeFrom": [
+    "Potion of Poison"
+   ]
+  },
+  {
+   "id": "poison",
+   "name": "Potion of Poison",
+   "shortName": "Poison",
+   "effect": "Poison",
+   "effectLabel": "Poison",
+   "category": "negative",
+   "color": "#87A363",
+   "description": "Drains 1 HP every 1.25 s, but never below 1 HP.",
+   "duration": "0:45",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/poison.png",
+   "splashIcon": "potions/poison_splash.png",
+   "lingeringIcon": "potions/poison_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "spider_eye",
+     "potion": "poison"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_poison",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "1:30",
+     "effectLabel": "Poison",
+     "icon": "potions/long_poison.png",
+     "splashIcon": "potions/long_poison_splash.png",
+     "lingeringIcon": "potions/long_poison_lingering.png"
+    },
+    {
+     "id": "strong_poison",
+     "kind": "enhanced",
+     "reagent": "glowstone_dust",
+     "duration": "0:21",
+     "effectLabel": "Poison II",
+     "icon": "potions/strong_poison.png",
+     "splashIcon": "potions/strong_poison_splash.png",
+     "lingeringIcon": "potions/strong_poison_lingering.png"
+    }
+   ],
+   "corruptsTo": [
+    "harming"
+   ],
+   "alternativeFrom": []
+  },
+  {
+   "id": "regeneration",
+   "name": "Potion of Regeneration",
+   "shortName": "Regeneration",
+   "effect": "Regeneration",
+   "effectLabel": "Regeneration",
+   "category": "positive",
+   "color": "#CD5CAB",
+   "description": "Restores 1 HP every 2.5 s (every 1.25 s at level II).",
+   "duration": "0:45",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/regeneration.png",
+   "splashIcon": "potions/regeneration_splash.png",
+   "lingeringIcon": "potions/regeneration_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "ghast_tear",
+     "potion": "regeneration"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_regeneration",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "1:30",
+     "effectLabel": "Regeneration",
+     "icon": "potions/long_regeneration.png",
+     "splashIcon": "potions/long_regeneration_splash.png",
+     "lingeringIcon": "potions/long_regeneration_lingering.png"
+    },
+    {
+     "id": "strong_regeneration",
+     "kind": "enhanced",
+     "reagent": "glowstone_dust",
+     "duration": "0:22",
+     "effectLabel": "Regeneration II",
+     "icon": "potions/strong_regeneration.png",
+     "splashIcon": "potions/strong_regeneration_splash.png",
+     "lingeringIcon": "potions/strong_regeneration_lingering.png"
+    }
+   ],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "weakness",
+   "name": "Potion of Weakness",
+   "shortName": "Weakness",
+   "effect": "Weakness",
+   "effectLabel": "Weakness",
+   "category": "negative",
+   "color": "#484D48",
+   "description": "Reduces melee damage by 4 HP (2 hearts).",
+   "duration": "1:30",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/weakness.png",
+   "splashIcon": "potions/weakness_splash.png",
+   "lingeringIcon": "potions/weakness_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "fermented_spider_eye",
+     "potion": "weakness"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_weakness",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "4:00",
+     "effectLabel": "Weakness",
+     "icon": "potions/long_weakness.png",
+     "splashIcon": "potions/long_weakness_splash.png",
+     "lingeringIcon": "potions/long_weakness_lingering.png"
+    }
+   ],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "night_vision",
+   "name": "Potion of Night Vision",
+   "shortName": "Night Vision",
+   "effect": "Night Vision",
+   "effectLabel": "Night Vision",
+   "category": "positive",
+   "color": "#C2FF66",
+   "description": "Makes everything appear at full light level.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/night_vision.png",
+   "splashIcon": "potions/night_vision_splash.png",
+   "lingeringIcon": "potions/night_vision_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "golden_carrot",
+     "potion": "night_vision"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_night_vision",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "8:00",
+     "effectLabel": "Night Vision",
+     "icon": "potions/long_night_vision.png",
+     "splashIcon": "potions/long_night_vision_splash.png",
+     "lingeringIcon": "potions/long_night_vision_lingering.png"
+    }
+   ],
+   "corruptsTo": [
+    "invisibility"
+   ],
+   "alternativeFrom": []
+  },
+  {
+   "id": "invisibility",
+   "name": "Potion of Invisibility",
+   "shortName": "Invisibility",
+   "effect": "Invisibility",
+   "effectLabel": "Invisibility",
+   "category": "positive",
+   "color": "#F6F6F6",
+   "description": "Hides the entity. Worn armour and held items stay visible.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/invisibility.png",
+   "splashIcon": "potions/invisibility_splash.png",
+   "lingeringIcon": "potions/invisibility_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "golden_carrot",
+     "potion": "night_vision"
+    },
+    {
+     "reagent": "fermented_spider_eye",
+     "potion": "invisibility"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_invisibility",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "8:00",
+     "effectLabel": "Invisibility",
+     "icon": "potions/long_invisibility.png",
+     "splashIcon": "potions/long_invisibility_splash.png",
+     "lingeringIcon": "potions/long_invisibility_lingering.png"
+    }
+   ],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "fire_resistance",
+   "name": "Potion of Fire Resistance",
+   "shortName": "Fire Resistance",
+   "effect": "Fire Resistance",
+   "effectLabel": "Fire Resistance",
+   "category": "positive",
+   "color": "#FF9900",
+   "description": "Grants immunity to fire, lava, magma and blaze fireballs.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/fire_resistance.png",
+   "splashIcon": "potions/fire_resistance_splash.png",
+   "lingeringIcon": "potions/fire_resistance_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "magma_cream",
+     "potion": "fire_resistance"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_fire_resistance",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "8:00",
+     "effectLabel": "Fire Resistance",
+     "icon": "potions/long_fire_resistance.png",
+     "splashIcon": "potions/long_fire_resistance_splash.png",
+     "lingeringIcon": "potions/long_fire_resistance_lingering.png"
+    }
+   ],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "water_breathing",
+   "name": "Potion of Water Breathing",
+   "shortName": "Water Breathing",
+   "effect": "Water Breathing",
+   "effectLabel": "Water Breathing",
+   "category": "positive",
+   "color": "#98DAC0",
+   "description": "Stops the air bar from draining underwater.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/water_breathing.png",
+   "splashIcon": "potions/water_breathing_splash.png",
+   "lingeringIcon": "potions/water_breathing_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "pufferfish",
+     "potion": "water_breathing"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_water_breathing",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "8:00",
+     "effectLabel": "Water Breathing",
+     "icon": "potions/long_water_breathing.png",
+     "splashIcon": "potions/long_water_breathing_splash.png",
+     "lingeringIcon": "potions/long_water_breathing_lingering.png"
+    }
+   ],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "slow_falling",
+   "name": "Potion of Slow Falling",
+   "shortName": "Slow Falling",
+   "effect": "Slow Falling",
+   "effectLabel": "Slow Falling",
+   "category": "positive",
+   "color": "#F3CFB9",
+   "description": "Greatly slows falling and negates all fall damage.",
+   "duration": "1:30",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/slow_falling.png",
+   "splashIcon": "potions/slow_falling_splash.png",
+   "lingeringIcon": "potions/slow_falling_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "phantom_membrane",
+     "potion": "slow_falling"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_slow_falling",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "4:00",
+     "effectLabel": "Slow Falling",
+     "icon": "potions/long_slow_falling.png",
+     "splashIcon": "potions/long_slow_falling_splash.png",
+     "lingeringIcon": "potions/long_slow_falling_lingering.png"
+    }
+   ],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "turtle_master",
+   "name": "Potion of the Turtle Master",
+   "shortName": "the Turtle Master",
+   "effect": "Slowness IV + Resistance III",
+   "effectLabel": "Slowness IV + Resistance III",
+   "category": "mixed",
+   "color": "#8D82E6",
+   "description": "Slowness IV and Resistance III at the same time.",
+   "duration": "0:20",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/turtle_master.png",
+   "splashIcon": "potions/turtle_master_splash.png",
+   "lingeringIcon": "potions/turtle_master_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "turtle_helmet",
+     "potion": "turtle_master"
+    }
+   ],
+   "variants": [
+    {
+     "id": "long_turtle_master",
+     "kind": "extended",
+     "reagent": "redstone",
+     "duration": "0:40",
+     "effectLabel": "Slowness IV + Resistance III",
+     "icon": "potions/long_turtle_master.png",
+     "splashIcon": "potions/long_turtle_master_splash.png",
+     "lingeringIcon": "potions/long_turtle_master_lingering.png"
+    },
+    {
+     "id": "strong_turtle_master",
+     "kind": "enhanced",
+     "reagent": "glowstone_dust",
+     "duration": "0:20",
+     "effectLabel": "Slowness VI + Resistance IV",
+     "icon": "potions/strong_turtle_master.png",
+     "splashIcon": "potions/strong_turtle_master_splash.png",
+     "lingeringIcon": "potions/strong_turtle_master_lingering.png"
+    }
+   ],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "oozing",
+   "name": "Potion of Oozing",
+   "shortName": "Oozing",
+   "effect": "Oozing",
+   "effectLabel": "Oozing",
+   "category": "negative",
+   "color": "#99FFA3",
+   "description": "When the entity dies, two slimes spawn.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/oozing.png",
+   "splashIcon": "potions/oozing_splash.png",
+   "lingeringIcon": "potions/oozing_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "slime_block",
+     "potion": "oozing"
+    }
+   ],
+   "variants": [],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "weaving",
+   "name": "Potion of Weaving",
+   "shortName": "Weaving",
+   "effect": "Weaving",
+   "effectLabel": "Weaving",
+   "category": "negative",
+   "color": "#78695A",
+   "description": "When the entity dies it places cobwebs; it also moves through cobwebs without slowing.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/weaving.png",
+   "splashIcon": "potions/weaving_splash.png",
+   "lingeringIcon": "potions/weaving_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "cobweb",
+     "potion": "weaving"
+    }
+   ],
+   "variants": [],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "infested",
+   "name": "Potion of Infestation",
+   "shortName": "Infestation",
+   "effect": "Infested",
+   "effectLabel": "Infested",
+   "category": "negative",
+   "color": "#8C9B8C",
+   "description": "Taking damage has a chance to spawn 1-2 silverfish.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/infested.png",
+   "splashIcon": "potions/infested_splash.png",
+   "lingeringIcon": "potions/infested_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "stone",
+     "potion": "infested"
+    }
+   ],
+   "variants": [],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "wind_charged",
+   "name": "Potion of Wind Charging",
+   "shortName": "Wind Charging",
+   "effect": "Wind Charged",
+   "effectLabel": "Wind Charged",
+   "category": "mixed",
+   "color": "#BDC9FF",
+   "description": "Taking damage releases a wind burst that knocks nearby entities back.",
+   "duration": "3:00",
+   "instant": false,
+   "brewable": true,
+   "icon": "potions/wind_charged.png",
+   "splashIcon": "potions/wind_charged_splash.png",
+   "lingeringIcon": "potions/wind_charged_lingering.png",
+   "splash": true,
+   "lingering": true,
+   "path": [
+    {
+     "reagent": null,
+     "potion": "water"
+    },
+    {
+     "reagent": "nether_wart",
+     "potion": "awkward"
+    },
+    {
+     "reagent": "breeze_rod",
+     "potion": "wind_charged"
+    }
+   ],
+   "variants": [],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  },
+  {
+   "id": "luck",
+   "name": "Potion of Luck",
+   "shortName": "Luck",
+   "effect": "Luck",
+   "effectLabel": "Luck",
+   "category": "special",
+   "color": "#59C106",
+   "description": "Improves loot table rolls. Not brewable in survival.",
+   "duration": "5:00",
+   "instant": false,
+   "brewable": false,
+   "icon": "potions/luck.png",
+   "splashIcon": "potions/luck_splash.png",
+   "lingeringIcon": "potions/luck_lingering.png",
+   "splash": false,
+   "lingering": false,
+   "path": [],
+   "variants": [],
+   "corruptsTo": [],
+   "alternativeFrom": []
+  }
+ ]
+}

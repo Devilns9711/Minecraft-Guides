@@ -1,0 +1,169 @@
+[
+ {
+  "name": "Banner on a Shield",
+  "grid": [
+   [
+    "shield",
+    "white_banner"
+   ]
+  ],
+  "note": "Shield + Banner copies the banner pattern onto the shield.",
+  "kind": "shielddecoration",
+  "materials": [
+   {
+    "id": "shield",
+    "label": "Shield",
+    "any": false
+   },
+   {
+    "id": "white_banner",
+    "label": "Banners (any)",
+    "any": true
+   }
+  ]
+ },
+ {
+  "name": "Copy a Banner",
+  "grid": [
+   [
+    "white_banner",
+    "white_banner"
+   ]
+  ],
+  "note": "Banner + identical banner copies the pattern (works for every color).",
+  "kind": "bannerduplicate",
+  "materials": [
+   {
+    "id": "white_banner",
+    "label": "Banners (any)",
+    "any": true
+   }
+  ]
+ },
+ {
+  "name": "Copy a Written Book",
+  "grid": [
+   [
+    "written_book",
+    "writable_book"
+   ]
+  ],
+  "note": "Written Book + Book copies every written page.",
+  "kind": "bookcloning",
+  "materials": [
+   {
+    "id": "written_book",
+    "label": "Written Book",
+    "any": false
+   },
+   {
+    "id": "writable_book",
+    "label": "Book Cloning Target (any)",
+    "any": true
+   }
+  ]
+ },
+ {
+  "name": "Extend a Map",
+  "grid": [
+   [
+    "filled_map",
+    "paper"
+   ]
+  ],
+  "note": "Filled Map + Paper adds one zoom level. The Cartography Table can also extend, lock and copy maps.",
+  "kind": "mapextending",
+  "materials": [
+   {
+    "id": "filled_map",
+    "label": "Extendable Maps (any)",
+    "any": true
+   },
+   {
+    "id": "paper",
+    "label": "Paper",
+    "any": false
+   }
+  ]
+ },
+ {
+  "name": "Fade Firework Star",
+  "grid": [
+   [
+    "firework_star",
+    "white_dye"
+   ]
+  ],
+  "note": "Firework Star + Dye adds a second, fading color to the explosion.",
+  "kind": "firework_star_fade",
+  "materials": [
+   {
+    "id": "firework_star",
+    "label": "Firework Star",
+    "any": false
+   },
+   {
+    "id": "white_dye",
+    "label": "Dyes (any)",
+    "any": true
+   }
+  ]
+ },
+ {
+  "name": "Firework Rocket",
+  "grid": [
+   [
+    "paper",
+    "gunpowder"
+   ]
+  ],
+  "note": "Paper + Gunpowder makes 3 rockets; add a Firework Star for a colored explosion. Extra gunpowder = higher flight.",
+  "kind": "firework_rocket",
+  "materials": [
+   {
+    "id": "paper",
+    "label": "Paper",
+    "any": false
+   },
+   {
+    "id": "gunpowder",
+    "label": "Gunpowder",
+    "any": false
+   },
+   {
+    "id": "firework_star",
+    "label": "Firework Star",
+    "any": false
+   }
+  ]
+ },
+ {
+  "name": "Firework Star",
+  "grid": [
+   [
+    "gunpowder",
+    "white_dye"
+   ]
+  ],
+  "note": "Gunpowder + Dye makes a Firework Star. Optional modifiers: Shape (Feather, Creeper Head, Fire Charge or Gold Nugget), Trail (Diamond), Twinkle (Glowstone Dust).",
+  "kind": "firework_star",
+  "materials": [
+   {
+    "id": "gunpowder",
+    "label": "Gunpowder",
+    "any": false
+   },
+   {
+    "id": "white_dye",
+    "label": "Dyes (any)",
+    "any": true
+   }
+  ]
+ },
+ {
+  "name": "Repair & Merge Items",
+  "note": "Place two damaged tools, weapons or armor of the same kind in the grid (optionally with iron ingots, diamonds or other repair materials) to repair them or merge their enchantments.",
+  "kind": "repairitem",
+  "materials": []
+ }
+]

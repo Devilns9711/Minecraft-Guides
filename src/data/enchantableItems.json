@@ -1,0 +1,391 @@
+{
+  "version": "26.3",
+  "source": "Curated max-level survival sets. One representative material per item type (Diamond), so material variants are not repeated.",
+  "items": [
+    {
+      "id": "sword",
+      "name": "Sword",
+      "material": "Diamond",
+      "icon": "Diamond Sword",
+      "category": "Weapons",
+      "role": "Melee",
+      "enchants": [
+        { "id": "sharpness", "level": 5 },
+        { "id": "sweeping_edge", "level": 3 },
+        { "id": "looting", "level": 3 },
+        { "id": "fire_aspect", "level": 2 },
+        { "id": "knockback", "level": 2 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Sharpness V", "options": ["Smite V", "Bane of Arthropods V"] }
+      ]
+    },
+    {
+      "id": "spear",
+      "name": "Spear",
+      "material": "Diamond",
+      "icon": "Diamond Spear",
+      "category": "Weapons",
+      "role": "Reach melee",
+      "enchants": [
+        { "id": "sharpness", "level": 5 },
+        { "id": "lunge", "level": 3 },
+        { "id": "looting", "level": 3 },
+        { "id": "fire_aspect", "level": 2 },
+        { "id": "knockback", "level": 2 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Sharpness V", "options": ["Smite V", "Bane of Arthropods V"] }
+      ],
+      "notes": "Lunge consumes hunger and 1 extra durability per jab."
+    },
+    {
+      "id": "axe",
+      "name": "Axe",
+      "material": "Diamond",
+      "icon": "Diamond Axe",
+      "category": "Tools",
+      "role": "Chopping / melee",
+      "enchants": [
+        { "id": "sharpness", "level": 5 },
+        { "id": "efficiency", "level": 5 },
+        { "id": "fortune", "level": 3 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Fortune III", "options": ["Silk Touch I"] },
+        { "replace": "Sharpness V", "options": ["Smite V", "Bane of Arthropods V"] }
+      ]
+    },
+    {
+      "id": "pickaxe",
+      "name": "Pickaxe",
+      "material": "Diamond",
+      "icon": "Diamond Pickaxe",
+      "category": "Tools",
+      "role": "Mining",
+      "enchants": [
+        { "id": "efficiency", "level": 5 },
+        { "id": "fortune", "level": 3 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Fortune III", "options": ["Silk Touch I"] }
+      ]
+    },
+    {
+      "id": "shovel",
+      "name": "Shovel",
+      "material": "Diamond",
+      "icon": "Diamond Shovel",
+      "category": "Tools",
+      "role": "Digging",
+      "enchants": [
+        { "id": "efficiency", "level": 5 },
+        { "id": "fortune", "level": 3 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Fortune III", "options": ["Silk Touch I"] }
+      ]
+    },
+    {
+      "id": "hoe",
+      "name": "Hoe",
+      "material": "Diamond",
+      "icon": "Diamond Hoe",
+      "category": "Tools",
+      "role": "Farming",
+      "enchants": [
+        { "id": "efficiency", "level": 5 },
+        { "id": "fortune", "level": 3 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Fortune III", "options": ["Silk Touch I"] }
+      ]
+    },
+    {
+      "id": "mace",
+      "name": "Mace",
+      "material": null,
+      "icon": "Mace",
+      "category": "Weapons",
+      "role": "Smash melee",
+      "enchants": [
+        { "id": "density", "level": 5 },
+        { "id": "wind_burst", "level": 3 },
+        { "id": "fire_aspect", "level": 2 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Density V", "options": ["Breach IV", "Smite V", "Bane of Arthropods V"] }
+      ]
+    },
+    {
+      "id": "bow",
+      "name": "Bow",
+      "material": null,
+      "icon": "Bow",
+      "category": "Ranged",
+      "role": "Ranged",
+      "enchants": [
+        { "id": "power", "level": 5 },
+        { "id": "flame", "level": 1 },
+        { "id": "punch", "level": 2 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Mending", "options": ["Infinity"] }
+      ],
+      "notes": "Infinity and Mending are mutually exclusive. Pick one before building the plan."
+    },
+    {
+      "id": "crossbow",
+      "name": "Crossbow",
+      "material": null,
+      "icon": "Crossbow",
+      "category": "Ranged",
+      "role": "Ranged",
+      "enchants": [
+        { "id": "quick_charge", "level": 3 },
+        { "id": "piercing", "level": 4 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Piercing IV", "options": ["Multishot"] }
+      ]
+    },
+    {
+      "id": "trident",
+      "name": "Trident",
+      "material": null,
+      "icon": "Trident",
+      "category": "Ranged",
+      "role": "Thrown / melee",
+      "enchants": [
+        { "id": "loyalty", "level": 3 },
+        { "id": "impaling", "level": 5 },
+        { "id": "channeling", "level": 1 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Loyalty III + Channeling", "options": ["Riptide III"] }
+      ],
+      "notes": "Riptide replaces both Loyalty and Channeling; it cannot be combined with either."
+    },
+    {
+      "id": "shield",
+      "name": "Shield",
+      "material": null,
+      "icon": "Shield",
+      "category": "Utility",
+      "role": "Defense",
+      "enchants": [
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "elytra",
+      "name": "Elytra",
+      "material": null,
+      "icon": "Elytra",
+      "category": "Armor",
+      "role": "Flight",
+      "enchants": [
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "helmet",
+      "name": "Helmet",
+      "material": "Diamond",
+      "icon": "Diamond Helmet",
+      "category": "Armor",
+      "role": "Head",
+      "enchants": [
+        { "id": "protection", "level": 4 },
+        { "id": "respiration", "level": 3 },
+        { "id": "aqua_affinity", "level": 1 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Protection IV", "options": ["Fire Protection IV", "Blast Protection IV", "Projectile Protection IV"] }
+      ],
+      "notes": "Thorns III is optional: add it and the total rises from 27 to 45 XP."
+    },
+    {
+      "id": "chestplate",
+      "name": "Chestplate",
+      "material": "Diamond",
+      "icon": "Diamond Chestplate",
+      "category": "Armor",
+      "role": "Chest",
+      "enchants": [
+        { "id": "protection", "level": 4 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Protection IV", "options": ["Fire Protection IV", "Blast Protection IV", "Projectile Protection IV"] }
+      ],
+      "notes": "Thorns III is optional: add it and the total rises from 13 to 28 XP."
+    },
+    {
+      "id": "leggings",
+      "name": "Leggings",
+      "material": "Diamond",
+      "icon": "Diamond Leggings",
+      "category": "Armor",
+      "role": "Legs",
+      "enchants": [
+        { "id": "protection", "level": 4 },
+        { "id": "swift_sneak", "level": 3 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Protection IV", "options": ["Fire Protection IV", "Blast Protection IV", "Projectile Protection IV"] }
+      ],
+      "notes": "Thorns III is optional: add it and the total rises from 28 to 44 XP."
+    },
+    {
+      "id": "boots",
+      "name": "Boots",
+      "material": "Diamond",
+      "icon": "Diamond Boots",
+      "category": "Armor",
+      "role": "Feet",
+      "enchants": [
+        { "id": "protection", "level": 4 },
+        { "id": "feather_falling", "level": 4 },
+        { "id": "depth_strider", "level": 3 },
+        { "id": "soul_speed", "level": 3 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Depth Strider III", "options": ["Frost Walker II"] },
+        { "replace": "Protection IV", "options": ["Fire Protection IV", "Blast Protection IV", "Projectile Protection IV"] }
+      ],
+      "notes": "Frost Walker conflicts with Depth Strider, not Soul Speed. Thorns III is optional: add it and the total rises from 49 to 66 XP."
+    },
+    {
+      "id": "turtle_shell",
+      "name": "Turtle Shell",
+      "material": null,
+      "icon": "Turtle Shell",
+      "category": "Armor",
+      "role": "Head",
+      "enchants": [
+        { "id": "protection", "level": 4 },
+        { "id": "respiration", "level": 3 },
+        { "id": "aqua_affinity", "level": 1 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": [
+        { "replace": "Protection IV", "options": ["Fire Protection IV", "Blast Protection IV", "Projectile Protection IV"] }
+      ],
+      "notes": "Thorns III is optional: add it and the total rises from 27 to 45 XP."
+    },
+    {
+      "id": "fishing_rod",
+      "name": "Fishing Rod",
+      "material": null,
+      "icon": "Fishing Rod",
+      "category": "Tools",
+      "role": "Fishing",
+      "enchants": [
+        { "id": "luck_of_the_sea", "level": 3 },
+        { "id": "lure", "level": 3 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "shears",
+      "name": "Shears",
+      "material": null,
+      "icon": "Shears",
+      "category": "Tools",
+      "role": "Shearing",
+      "enchants": [
+        { "id": "efficiency", "level": 5 },
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "flint_and_steel",
+      "name": "Flint and Steel",
+      "material": null,
+      "icon": "Flint and Steel",
+      "category": "Tools",
+      "role": "Fire starter",
+      "enchants": [
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "carrot_on_a_stick",
+      "name": "Carrot on a Stick",
+      "material": null,
+      "icon": "Carrot on a Stick",
+      "category": "Utility",
+      "role": "Pig riding",
+      "enchants": [
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "warped_fungus_on_a_stick",
+      "name": "Warped Fungus on a Stick",
+      "material": null,
+      "icon": "Warped Fungus on a Stick",
+      "category": "Utility",
+      "role": "Strider riding",
+      "enchants": [
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": []
+    },
+    {
+      "id": "brush",
+      "name": "Brush",
+      "material": null,
+      "icon": "Brush",
+      "category": "Tools",
+      "role": "Archaeology",
+      "enchants": [
+        { "id": "unbreaking", "level": 3 },
+        { "id": "mending", "level": 1 }
+      ],
+      "alternatives": []
+    }
+  ]
+}

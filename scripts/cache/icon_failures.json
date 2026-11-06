@@ -1,0 +1,1122 @@
+[
+ {
+  "id": "black_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "abandoned_camp_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "black_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "black_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "black_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "black_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "black_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "blindness",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "black_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "blue_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "blue_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "blue_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "blue_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "blue_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "blue_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "blue_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "brown_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "brown_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "bolt",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "brown_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "brown_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "brown_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "brown_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "brown_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "buried_ancient_city_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "buried_mineshaft_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "buried_trial_chambers_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "buried_treasure_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "coast",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "conduit",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "creeper_head",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "copper_golem_statue",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "copper_chest",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "cyan_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "cyan_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "cyan_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "cyan_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "cyan_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "cyan_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "cyan_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "decorated_pot",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "desert",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "desert_pyramid_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "desert_village_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "dune",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "exposed_copper_chest",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "ender_chest",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "eye",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "exposed_copper_golem_statue",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "flow",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "gray_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "gray_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "gray_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "fire_resistance",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "gray_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "gray_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "gray_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "gray_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "green_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "green_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "green_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "green_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "green_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "green_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "host",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "jump_boost",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "green_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "jungle",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "jungle_pyramid_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "dragon_head",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "jungle_temple",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "light_blue_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_blue_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_blue_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "light_blue_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_blue_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_blue_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_blue_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_gray_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_gray_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_gray_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_gray_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_gray_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "light_gray_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "light_gray_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "lime_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "lime_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "lime_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "lime_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "lime_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "lime_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "long_invisibility",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "lime_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "magenta_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "magenta_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "magenta_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "magenta_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "magenta_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "magenta_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "night_vision",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "ocean_monument_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "nausea",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "orange_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "monument",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "orange_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "orange_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "orange_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "orange_poplar_leaves",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "magenta_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "orange_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "orange_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "orange_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "oxidized_copper_chest",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "piglin_head",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "oxidized_copper_golem_statue",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "pink_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "pink_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "pink_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "pink_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "pink_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "pink_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "pink_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "plains_village_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "plains",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "poison",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "player_head",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_boat",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "poplar_chest_boat",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "poplar_button",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_fence",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_fence_gate",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_hanging_sign",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_log",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_planks",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_door",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_pressure_plate",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_sapling",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_shelf",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_wood",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "purple_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "purple_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_trapdoor",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "purple_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "purple_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "purple_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "poplar_sign",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "purple_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "purple_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "red_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "red_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "red_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "raiser",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "red_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "red_poplar_leaves",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "red_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "red_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "red_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "regeneration",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "rib",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "savanna",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "saturation",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "savanna_village_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "sentry",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "skeleton_skull",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "shaper",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "silence",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "shelf_mushroom",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "snout",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "snowy_village_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "spire",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "straw_bed",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "stripped_poplar_log",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "stripped_poplar_wood",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "swamp",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "taiga",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "swamp_hut_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "swamp_hut",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "taiga_village_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "tide",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "trapped_chest",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "trial_chambers",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "village_desert",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "vex",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "village_savanna",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "village_snowy",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "village_plains",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "village_taiga",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "warm_ocean_ruins_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "ward",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "waxed_copper_chest",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "waxed_copper_golem_statue",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "waxed_exposed_copper_chest",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "waxed_exposed_copper_golem_statue",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "waxed_oxidized_copper_chest",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "waxed_oxidized_copper_golem_statue",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "waxed_weathered_copper_golem_statue",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "waxed_weathered_copper_chest",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "weakness",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "wayfinder",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "weathered_copper_golem_statue",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "weathered_copper_chest",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "white_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "white_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "white_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "white_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "white_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "white_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "white_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "wild",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "wither_skeleton_skull",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "woodland_mansion_map",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "yellow_banner",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "wither",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "yellow_concrete_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "yellow_concrete_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "yellow_cushion",
+  "kind": "item",
+  "codes": "item:404/block:404"
+ },
+ {
+  "id": "yellow_poplar_leaves",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "yellow_shulker_box",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "yellow_wool_stairs",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "zombie_head",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ },
+ {
+  "id": "yellow_wool_slab",
+  "kind": "block",
+  "codes": "block:404/item:404"
+ }
+]
